@@ -1,0 +1,574 @@
+문제 번호,문제 티어,문제 이름,전체 제출 케이스,정답 케이스,푼 사람 수,정답 비율,문제 링크
+9012,Silver IV,괄호,224258,106519,76384,46.226%,https://www.acmicpc.net/problem/9012
+10828,Silver IV,스택,275046,101486,73643,37.828%,https://www.acmicpc.net/problem/10828
+1920,Silver IV,수 찾기,284782,89939,59463,30.345%,https://www.acmicpc.net/problem/1920
+10773,Silver IV,제로,103852,70658,57339,68.219%,https://www.acmicpc.net/problem/10773
+2164,Silver IV,카드2,134263,69726,54286,50.877%,https://www.acmicpc.net/problem/2164
+10845,Silver IV,큐,138206,65164,51323,49.116%,https://www.acmicpc.net/problem/10845
+1874,Silver II,스택 수열,171594,67876,47132,38.387%,https://www.acmicpc.net/problem/1874
+10816,Silver IV,숫자 카드 2,161359,63630,45310,37.878%,https://www.acmicpc.net/problem/10816
+1158,Silver IV,요세푸스 문제,120763,60756,42657,49.096%,https://www.acmicpc.net/problem/1158
+10866,Silver IV,덱,90449,50268,42305,56.183%,https://www.acmicpc.net/problem/10866
+11866,Silver IV,요세푸스 문제 0,86934,49408,41394,56.455%,https://www.acmicpc.net/problem/11866
+1764,Silver IV,듣보잡,119956,51791,40439,41.500%,https://www.acmicpc.net/problem/1764
+4949,Silver IV,균형잡힌 세상,148428,50476,38987,32.758%,https://www.acmicpc.net/problem/4949
+10815,Silver V,숫자 카드,123799,52662,38562,42.631%,https://www.acmicpc.net/problem/10815
+1966,Silver III,프린터 큐,83953,48608,38314,58.749%,https://www.acmicpc.net/problem/1966
+1927,Silver II,최소 힙,92022,43948,34769,49.082%,https://www.acmicpc.net/problem/1927
+1620,Silver IV,나는야 포켓몬 마스터 이다솜,122931,44619,33625,34.566%,https://www.acmicpc.net/problem/1620
+11279,Silver II,최대 힙,84811,40786,32327,49.644%,https://www.acmicpc.net/problem/11279
+18258,Silver IV,큐 2,108959,35454,28709,32.703%,https://www.acmicpc.net/problem/18258
+11286,Silver I,절댓값 힙,62066,35162,27707,56.775%,https://www.acmicpc.net/problem/11286
+10799,Silver II,쇠막대기,56279,36529,27131,65.105%,https://www.acmicpc.net/problem/10799
+1406,Silver II,에디터,130999,36909,24811,26.829%,https://www.acmicpc.net/problem/1406
+14425,Silver IV,문자열 집합,57756,31289,23980,53.913%,https://www.acmicpc.net/problem/14425
+1021,Silver III,회전하는 큐,48208,29038,23682,61.791%,https://www.acmicpc.net/problem/1021
+17298,Gold IV,오큰수,92686,33722,23649,34.647%,https://www.acmicpc.net/problem/17298
+3190,Gold IV,뱀,80053,34403,23175,41.393%,https://www.acmicpc.net/problem/3190
+1717,Gold V,집합의 표현,108990,34881,21375,28.255%,https://www.acmicpc.net/problem/1717
+9375,Silver III,패션왕 신해빈,44701,24967,20886,55.613%,https://www.acmicpc.net/problem/9375
+1715,Gold IV,카드 정렬하기,73977,26239,20139,34.770%,https://www.acmicpc.net/problem/1715
+7785,Silver V,회사에 있는 사람,62907,26049,19768,40.621%,https://www.acmicpc.net/problem/7785
+2493,Gold V,탑,82248,28522,19247,33.072%,https://www.acmicpc.net/problem/2493
+1269,Silver IV,대칭 차집합,35867,23021,19114,64.778%,https://www.acmicpc.net/problem/1269
+9935,Gold IV,문자열 폭발,88562,24142,17033,26.524%,https://www.acmicpc.net/problem/9935
+11478,Silver III,서로 다른 부분 문자열의 개수,32976,20704,16664,63.311%,https://www.acmicpc.net/problem/11478
+17219,Silver IV,비밀번호 찾기,27838,19595,16560,71.253%,https://www.acmicpc.net/problem/17219
+1655,Gold II,가운데를 말해요,69754,20646,15428,30.425%,https://www.acmicpc.net/problem/1655
+1918,Gold II,후위 표기식,52054,20018,15298,38.013%,https://www.acmicpc.net/problem/1918
+17413,Silver III,단어 뒤집기 2,34710,19571,15220,56.850%,https://www.acmicpc.net/problem/17413
+2504,Gold V,괄호의 값,66776,19013,14364,30.994%,https://www.acmicpc.net/problem/2504
+1976,Gold IV,여행 가자,49382,19158,14011,37.167%,https://www.acmicpc.net/problem/1976
+2042,Gold I,구간 합 구하기,104526,26571,13682,25.565%,https://www.acmicpc.net/problem/2042
+1202,Gold II,보석 도둑,78979,19172,13261,22.514%,https://www.acmicpc.net/problem/1202
+5397,Silver II,키로거,63677,18643,12859,27.714%,https://www.acmicpc.net/problem/5397
+1302,Silver IV,베스트셀러,28094,15202,12622,54.347%,https://www.acmicpc.net/problem/1302
+1043,Gold IV,거짓말,35987,16139,12512,45.237%,https://www.acmicpc.net/problem/1043
+7662,Gold IV,이중 우선순위 큐,74555,16902,12446,22.017%,https://www.acmicpc.net/problem/7662
+1766,Gold II,문제집,31964,15712,12164,48.991%,https://www.acmicpc.net/problem/1766
+11000,Gold V,강의실 배정,54411,16341,12044,29.457%,https://www.acmicpc.net/problem/11000
+2346,Silver III,풍선 터뜨리기,34855,14684,11854,43.779%,https://www.acmicpc.net/problem/2346
+3986,Silver IV,좋은 단어,26649,14761,11753,56.418%,https://www.acmicpc.net/problem/3986
+28278,Silver IV,스택 2,37697,13704,11416,36.884%,https://www.acmicpc.net/problem/28278
+2161,Silver V,카드1,18531,12300,10881,68.741%,https://www.acmicpc.net/problem/2161
+2075,Silver II,N번째 큰 수,36621,14845,10791,39.119%,https://www.acmicpc.net/problem/2075
+11652,Silver IV,카드,47453,14258,10784,29.840%,https://www.acmicpc.net/problem/11652
+6549,Platinum V,히스토그램에서 가장 큰 직사각형,58325,16147,10622,27.290%,https://www.acmicpc.net/problem/6549
+1253,Gold IV,좋다,55352,14123,10150,24.257%,https://www.acmicpc.net/problem/1253
+17608,Bronze II,막대기,29143,12342,9970,43.108%,https://www.acmicpc.net/problem/17608
+5052,Gold IV,전화번호 목록,47872,15874,9863,30.904%,https://www.acmicpc.net/problem/5052
+2357,Gold I,최솟값과 최댓값,27158,13387,9757,51.913%,https://www.acmicpc.net/problem/2357
+16235,Gold III,나무 재테크,65806,16501,9360,22.497%,https://www.acmicpc.net/problem/16235
+12789,Silver III,도키도키 간식드리미,31870,10887,9105,33.795%,https://www.acmicpc.net/problem/12789
+4195,Gold II,친구 네트워크,50288,14500,9048,26.970%,https://www.acmicpc.net/problem/4195
+11003,Platinum V,최솟값 찾기,42202,13141,8628,30.777%,https://www.acmicpc.net/problem/11003
+2605,Bronze II,줄 세우기,14818,10058,8576,68.978%,https://www.acmicpc.net/problem/2605
+20920,Silver III,영단어 암기는 괴로워,22276,10123,8034,45.120%,https://www.acmicpc.net/problem/20920
+25192,Silver IV,인사성 밝은 곰곰이,20060,9100,7642,46.918%,https://www.acmicpc.net/problem/25192
+20040,Gold IV,사이클 게임,19355,10311,7623,50.118%,https://www.acmicpc.net/problem/20040
+10868,Gold I,최솟값,20408,10310,7600,54.027%,https://www.acmicpc.net/problem/10868
+2143,Gold III,두 배열의 합,31858,11221,7556,32.175%,https://www.acmicpc.net/problem/2143
+11505,Gold I,구간 곱 구하기,28606,9928,7438,32.954%,https://www.acmicpc.net/problem/11505
+2812,Gold III,크게 만들기,35358,10220,7404,28.160%,https://www.acmicpc.net/problem/2812
+15903,Silver I,카드 합체 놀이,19639,8723,7220,43.734%,https://www.acmicpc.net/problem/15903
+2776,Silver IV,암기왕,31399,10742,7210,32.102%,https://www.acmicpc.net/problem/2776
+17299,Gold III,오등큰수,19605,9115,7037,45.680%,https://www.acmicpc.net/problem/17299
+13335,Silver I,트럭,16093,8850,7035,56.583%,https://www.acmicpc.net/problem/13335
+1939,Gold III,중량제한,39374,10930,6729,25.915%,https://www.acmicpc.net/problem/1939
+28279,Silver IV,덱 2,15063,7341,6563,49.682%,https://www.acmicpc.net/problem/28279
+1517,Platinum V,버블 소트,34025,9530,6529,30.338%,https://www.acmicpc.net/problem/1517
+1417,Silver V,국회의원 선거,17274,7542,6435,44.771%,https://www.acmicpc.net/problem/1417
+10775,Gold II,공항,24216,8588,6433,35.399%,https://www.acmicpc.net/problem/10775
+2304,Silver II,창고 다각형,19876,8259,6421,41.442%,https://www.acmicpc.net/problem/2304
+6198,Gold V,옥상 정원 꾸미기,21590,8051,6086,35.456%,https://www.acmicpc.net/problem/6198
+26069,Silver IV,붙임성 좋은 총총이,10893,6824,6024,63.151%,https://www.acmicpc.net/problem/26069
+3015,Platinum V,오아시스 재결합,27591,7398,5642,27.260%,https://www.acmicpc.net/problem/3015
+4358,Silver II,생태학,20123,7625,5563,36.378%,https://www.acmicpc.net/problem/4358
+2910,Silver III,빈도 정렬,12802,7100,5377,55.296%,https://www.acmicpc.net/problem/2910
+1525,Gold II,퍼즐,18523,8159,5124,42.544%,https://www.acmicpc.net/problem/1525
+3197,Platinum V,백조의 호수,39510,8110,5061,19.327%,https://www.acmicpc.net/problem/3197
+1275,Gold I,커피숍2,20466,6494,5017,31.009%,https://www.acmicpc.net/problem/1275
+5568,Silver IV,카드 놓기,9221,6118,4863,67.504%,https://www.acmicpc.net/problem/5568
+13904,Gold III,과제,11377,6074,4824,53.028%,https://www.acmicpc.net/problem/13904
+4803,Gold IV,트리,19969,6929,4813,32.617%,https://www.acmicpc.net/problem/4803
+1822,Silver IV,차집합,12466,5737,4640,46.732%,https://www.acmicpc.net/problem/1822
+2109,Gold III,순회강연,15767,6294,4633,38.337%,https://www.acmicpc.net/problem/2109
+20291,Silver III,파일 정리,8964,6077,4587,67.976%,https://www.acmicpc.net/problem/20291
+1781,Gold II,컵라면,18170,6056,4494,33.418%,https://www.acmicpc.net/problem/1781
+2841,Silver I,외계인의 기타 연주,11545,5596,4266,47.143%,https://www.acmicpc.net/problem/2841
+2243,Platinum V,사탕상자,15793,6220,4262,38.803%,https://www.acmicpc.net/problem/2243
+1351,Gold V,무한 수열,13266,5085,4149,37.585%,https://www.acmicpc.net/problem/1351
+12605,Bronze II,단어순서 뒤집기,7873,4825,4146,61.899%,https://www.acmicpc.net/problem/12605
+14725,Gold III,개미굴,8112,5325,4126,66.875%,https://www.acmicpc.net/problem/14725
+16562,Gold IV,친구비,12367,5329,4054,42.036%,https://www.acmicpc.net/problem/16562
+10999,Platinum IV,구간 합 구하기 2,26065,7336,3997,29.282%,https://www.acmicpc.net/problem/10999
+1854,Platinum IV,K번째 최단경로 찾기,16285,6377,3942,35.840%,https://www.acmicpc.net/problem/1854
+13414,Silver III,수강신청,17909,5143,3750,27.168%,https://www.acmicpc.net/problem/13414
+13975,Gold IV,파일 합치기 3,9066,4558,3695,49.188%,https://www.acmicpc.net/problem/13975
+7578,Platinum V,공장,13324,5563,3687,38.954%,https://www.acmicpc.net/problem/7578
+2162,Platinum V,선분 그룹,17379,5279,3638,28.598%,https://www.acmicpc.net/problem/2162
+2002,Silver II,추월,9541,4324,3506,45.687%,https://www.acmicpc.net/problem/2002
+16724,Gold III,피리 부는 사나이,10242,4642,3503,42.492%,https://www.acmicpc.net/problem/16724
+2696,Gold II,중앙값 구하기,9271,4361,3406,49.078%,https://www.acmicpc.net/problem/2696
+9933,Bronze I,민균이의 비밀번호,8874,3891,3327,44.390%,https://www.acmicpc.net/problem/9933
+2268,Gold I,수들의 합 7,13224,4075,3317,30.510%,https://www.acmicpc.net/problem/2268
+3176,Platinum IV,도로 네트워크,12501,4821,3228,37.838%,https://www.acmicpc.net/problem/3176
+14428,Gold I,수열과 쿼리 16,7649,3783,3191,49.496%,https://www.acmicpc.net/problem/14428
+14438,Gold I,수열과 쿼리 17,6483,3802,3105,60.526%,https://www.acmicpc.net/problem/14438
+2295,Gold IV,세 수의 합,14852,4535,3028,28.448%,https://www.acmicpc.net/problem/2295
+13334,Gold II,철로,10831,4269,2981,37.450%,https://www.acmicpc.net/problem/13334
+2014,Gold I,소수의 곱,17512,4237,2968,23.860%,https://www.acmicpc.net/problem/2014
+16165,Silver III,걸그룹 마스터 준석이,5087,3508,2917,69.701%,https://www.acmicpc.net/problem/16165
+2517,Platinum IV,달리기,10830,4284,2913,44.548%,https://www.acmicpc.net/problem/2517
+1374,Gold V,강의실,8053,3633,2890,46.122%,https://www.acmicpc.net/problem/1374
+17952,Silver III,과제는 끝나지 않아!,8083,3993,2842,49.008%,https://www.acmicpc.net/problem/17952
+19598,Gold V,최소 회의실 개수,8371,3690,2828,44.050%,https://www.acmicpc.net/problem/19598
+3653,Platinum IV,영화 수집,9312,4060,2824,45.285%,https://www.acmicpc.net/problem/3653
+16975,Platinum IV,수열과 쿼리 21,6875,3549,2715,50.465%,https://www.acmicpc.net/problem/16975
+4889,Silver I,안정적인 문자열,6987,3304,2710,46.580%,https://www.acmicpc.net/problem/4889
+1395,Platinum III,스위치,8561,3671,2640,42.608%,https://www.acmicpc.net/problem/1395
+25757,Silver V,임스와 함께하는 미니게임,4405,2992,2622,69.383%,https://www.acmicpc.net/problem/25757
+1662,Gold IV,압축,9507,3206,2556,36.436%,https://www.acmicpc.net/problem/1662
+5670,Platinum IV,휴대폰 자판,10223,3823,2492,34.363%,https://www.acmicpc.net/problem/5670
+5676,Gold I,음주 코딩,9231,3087,2450,33.288%,https://www.acmicpc.net/problem/5676
+14427,Gold III,수열과 쿼리 15,6182,3171,2397,54.664%,https://www.acmicpc.net/problem/14427
+3078,Gold IV,좋은 친구,9969,3154,2374,31.540%,https://www.acmicpc.net/problem/3078
+18115,Silver III,카드 놓기,5566,3066,2363,54.160%,https://www.acmicpc.net/problem/18115
+14235,Silver III,크리스마스 선물,5028,2821,2325,58.432%,https://www.acmicpc.net/problem/14235
+19583,Silver II,싸이버개강총회,7627,3178,2317,40.387%,https://www.acmicpc.net/problem/19583
+11899,Silver III,괄호 끼워넣기,3476,2571,2256,75.705%,https://www.acmicpc.net/problem/11899
+2800,Gold IV,괄호 제거,7800,3035,2238,37.151%,https://www.acmicpc.net/problem/2800
+13417,Silver III,카드 문자열,4291,2581,2204,61.841%,https://www.acmicpc.net/problem/13417
+10546,Silver IV,배부른 마라토너,5960,2726,2198,46.420%,https://www.acmicpc.net/problem/10546
+1826,Gold II,연료 채우기,9235,2838,2190,30.058%,https://www.acmicpc.net/problem/1826
+17435,Gold I,합성함수와 쿼리,6049,3278,2176,52.207%,https://www.acmicpc.net/problem/17435
+12837,Gold I,가계부 (Hard),5717,2518,2168,44.335%,https://www.acmicpc.net/problem/12837
+2104,Platinum V,부분배열 고르기,9544,2733,2068,29.454%,https://www.acmicpc.net/problem/2104
+22233,Silver III,가희와 키워드,6483,2652,2022,39.141%,https://www.acmicpc.net/problem/22233
+9536,Silver III,여우는 어떻게 울지?,5404,2453,2018,45.605%,https://www.acmicpc.net/problem/9536
+2610,Gold II,회의준비,9116,2704,2011,29.132%,https://www.acmicpc.net/problem/2610
+1863,Gold IV,스카이라인 쉬운거,6201,2565,1994,40.501%,https://www.acmicpc.net/problem/1863
+3830,Platinum III,교수님은 기다리지 않는다,10607,2989,1980,26.866%,https://www.acmicpc.net/problem/3830
+13537,Platinum III,수열과 쿼리 1,6231,2705,1975,46.923%,https://www.acmicpc.net/problem/13537
+2015,Gold IV,수들의 합 4,6853,2515,1887,36.415%,https://www.acmicpc.net/problem/2015
+17352,Gold V,여러분의 다리가 되어 드리겠습니다!,4665,2336,1853,49.772%,https://www.acmicpc.net/problem/17352
+27160,Bronze II,할리갈리,3512,2270,1826,65.613%,https://www.acmicpc.net/problem/27160
+5419,Platinum III,북서풍,8166,2832,1824,34.448%,https://www.acmicpc.net/problem/5419
+18436,Gold I,수열과 쿼리 37,3704,2130,1801,58.722%,https://www.acmicpc.net/problem/18436
+16566,Platinum V,카드 게임,7343,2662,1782,33.426%,https://www.acmicpc.net/problem/16566
+21939,Gold IV,문제 추천 시스템 Version 1,7032,2360,1768,32.304%,https://www.acmicpc.net/problem/21939
+1168,Platinum III,요세푸스 문제 2,13293,2313,1690,33.379%,https://www.acmicpc.net/problem/1168
+14867,Gold II,물통,5519,2330,1688,42.179%,https://www.acmicpc.net/problem/14867
+11658,Platinum IV,구간 합 구하기 3,7357,2538,1680,34.869%,https://www.acmicpc.net/problem/11658
+16964,Gold III,DFS 스페셜 저지,6788,2301,1662,35.242%,https://www.acmicpc.net/problem/16964
+3425,Gold IV,고스택,14973,2455,1646,15.506%,https://www.acmicpc.net/problem/3425
+13306,Platinum IV,트리,5893,2202,1615,38.063%,https://www.acmicpc.net/problem/13306
+20303,Gold III,할로윈의 양아치,6949,2163,1604,29.286%,https://www.acmicpc.net/problem/20303
+9345,Platinum III,디지털 비디오 디스크(DVDs),4900,2101,1592,41.116%,https://www.acmicpc.net/problem/9345
+13544,Platinum III,수열과 쿼리 3,3289,1902,1554,60.703%,https://www.acmicpc.net/problem/13544
+1572,Platinum V,중앙값,6084,2068,1499,38.094%,https://www.acmicpc.net/problem/1572
+13511,Platinum III,트리와 쿼리 2,6593,1986,1460,28.317%,https://www.acmicpc.net/problem/13511
+1280,Platinum IV,나무 심기,11234,2293,1460,19.082%,https://www.acmicpc.net/problem/1280
+17619,Gold III,개구리 점프,7345,1980,1380,27.561%,https://www.acmicpc.net/problem/17619
+12899,Platinum IV,데이터 구조,4797,2062,1378,39.792%,https://www.acmicpc.net/problem/12899
+14426,Silver I,접두사 찾기,6331,1899,1377,35.748%,https://www.acmicpc.net/problem/14426
+14868,Platinum IV,문명,8046,2096,1336,24.150%,https://www.acmicpc.net/problem/14868
+20301,Silver III,반전 요세푸스,3495,1620,1332,47.504%,https://www.acmicpc.net/problem/20301
+1306,Platinum V,달려라 홍준,3835,1658,1323,44.878%,https://www.acmicpc.net/problem/1306
+16978,Platinum IV,수열과 쿼리 22,3296,1699,1307,49.006%,https://www.acmicpc.net/problem/16978
+1544,Silver IV,사이클 단어,2746,1576,1278,59.916%,https://www.acmicpc.net/problem/1544
+23253,Silver V,자료구조는 정말 최고야,4701,1659,1261,35.096%,https://www.acmicpc.net/problem/23253
+9322,Silver IV,철벽 보안 알고리즘,2296,1565,1241,69.798%,https://www.acmicpc.net/problem/9322
+1327,Gold IV,소트 게임,3729,1756,1229,44.675%,https://www.acmicpc.net/problem/1327
+20551,Silver IV,Sort 마스터 배지훈의 후계자,4637,1623,1227,37.171%,https://www.acmicpc.net/problem/20551
+3108,Gold II,로고,5289,1765,1210,31.315%,https://www.acmicpc.net/problem/3108
+1849,Platinum V,순열,3195,1542,1210,53.898%,https://www.acmicpc.net/problem/1849
+19638,Silver I,센티와 마법의 뿅망치,4398,1479,1205,33.547%,https://www.acmicpc.net/problem/19638
+2866,Gold V,문자열 잘라내기,4356,1683,1197,39.297%,https://www.acmicpc.net/problem/2866
+17612,Gold II,쇼핑몰,4810,1740,1192,36.475%,https://www.acmicpc.net/problem/17612
+13905,Gold IV,세부,5065,1720,1191,30.855%,https://www.acmicpc.net/problem/13905
+1270,Silver III,전쟁 - 땅따먹기,6052,1864,1189,30.526%,https://www.acmicpc.net/problem/1270
+1972,Silver III,놀라운 문자열,2395,1389,1176,60.153%,https://www.acmicpc.net/problem/1972
+15678,Platinum V,연세워터파크,3549,1621,1166,43.556%,https://www.acmicpc.net/problem/15678
+2257,Silver II,화학식량,3232,1409,1138,47.595%,https://www.acmicpc.net/problem/2257
+27964,Silver V,콰트로치즈피자,2041,1183,1092,58.271%,https://www.acmicpc.net/problem/27964
+14698,Gold IV,전생했더니 슬라임 연구자였던 건에 대하여 (Hard),6142,1434,1086,22.277%,https://www.acmicpc.net/problem/14698
+14713,Silver II,앵무새,4814,1416,1058,28.860%,https://www.acmicpc.net/problem/14713
+15815,Silver III,천재 수학자 성필,3286,1240,1056,38.428%,https://www.acmicpc.net/problem/15815
+23757,Silver II,아이들과 선물 상자,2735,1266,1049,46.602%,https://www.acmicpc.net/problem/23757
+4792,Platinum III,레드 블루 스패닝 트리,3505,1375,1048,39.562%,https://www.acmicpc.net/problem/4792
+14942,Platinum V,개미,2767,1379,1044,48.378%,https://www.acmicpc.net/problem/14942
+2820,Platinum III,자동차 공장,5255,1516,1028,30.668%,https://www.acmicpc.net/problem/2820
+3006,Platinum IV,터보소트,2159,1293,1008,67.651%,https://www.acmicpc.net/problem/3006
+20166,Gold IV,문자열 지옥에 빠진 호석,3792,1454,1004,36.245%,https://www.acmicpc.net/problem/20166
+2461,Gold II,대표 선수,3197,1377,990,44.756%,https://www.acmicpc.net/problem/2461
+1354,Gold V,무한 수열 2,2826,1421,989,50.076%,https://www.acmicpc.net/problem/1354
+14268,Platinum III,회사 문화 2,2632,1309,983,50.906%,https://www.acmicpc.net/problem/14268
+12846,Platinum V,무서운 아르바이트,2226,1132,982,57.326%,https://www.acmicpc.net/problem/12846
+12764,Gold III,싸지방에 간 준하,4347,1349,961,29.873%,https://www.acmicpc.net/problem/12764
+16499,Silver IV,동일한 단어 그룹화하기,1525,1055,945,69.742%,https://www.acmicpc.net/problem/16499
+18116,Gold IV,로봇 조립,4067,1280,940,28.476%,https://www.acmicpc.net/problem/18116
+11507,Silver IV,카드셋트,1725,1052,934,64.503%,https://www.acmicpc.net/problem/11507
+20955,Gold IV,민서의 응급 수술,3153,1218,933,37.068%,https://www.acmicpc.net/problem/20955
+12873,Silver III,기념품,3524,1204,931,34.678%,https://www.acmicpc.net/problem/12873
+1321,Platinum V,군인,2379,1174,917,51.691%,https://www.acmicpc.net/problem/1321
+7511,Gold V,소셜 네트워킹 어플리케이션,2845,1143,914,39.329%,https://www.acmicpc.net/problem/7511
+16404,Platinum III,주식회사 승범이네,2026,1103,908,57.215%,https://www.acmicpc.net/problem/16404
+2957,Platinum V,이진 탐색 트리,7447,1259,907,26.191%,https://www.acmicpc.net/problem/2957
+9938,Platinum III,방 청소,4038,1321,902,30.198%,https://www.acmicpc.net/problem/9938
+1835,Silver IV,카드,1870,1069,896,64.322%,https://www.acmicpc.net/problem/1835
+17408,Platinum IV,수열과 쿼리 24,1791,1158,886,64.577%,https://www.acmicpc.net/problem/17408
+15926,Gold III,현욱은 괄호왕이야!!,3987,1317,885,31.173%,https://www.acmicpc.net/problem/15926
+3780,Platinum V,네트워크 연결,4819,1306,875,24.510%,https://www.acmicpc.net/problem/3780
+3111,Platinum IV,검열,7047,1257,873,21.324%,https://www.acmicpc.net/problem/3111
+2463,Platinum V,비용,3691,1280,866,31.664%,https://www.acmicpc.net/problem/2463
+25556,Gold V,포스택,2894,1203,863,39.917%,https://www.acmicpc.net/problem/25556
+2179,Gold IV,비슷한 단어,5127,1226,861,26.306%,https://www.acmicpc.net/problem/2179
+21276,Gold II,계보 복원가 호석,2292,1107,853,48.165%,https://www.acmicpc.net/problem/21276
+17503,Silver I,맥주 축제,3765,1171,846,29.947%,https://www.acmicpc.net/problem/17503
+25497,Silver V,기술 연계마스터 임스,2586,971,841,39.447%,https://www.acmicpc.net/problem/25497
+19585,Platinum III,전설,8490,1303,836,13.308%,https://www.acmicpc.net/problem/19585
+18513,Gold IV,샘터,4993,1168,828,23.206%,https://www.acmicpc.net/problem/18513
+2412,Gold IV,암벽 등반,3773,1190,824,31.692%,https://www.acmicpc.net/problem/2412
+1933,Gold I,스카이라인,4202,1328,824,32.920%,https://www.acmicpc.net/problem/1933
+11085,Gold III,군사 이동,1541,965,810,62.404%,https://www.acmicpc.net/problem/11085
+11067,Gold V,모노톤길,3784,1237,804,33.059%,https://www.acmicpc.net/problem/11067
+17398,Platinum V,통신망 분할,2971,1080,802,34.674%,https://www.acmicpc.net/problem/17398
+23843,Gold V,콘센트,1884,944,769,49.613%,https://www.acmicpc.net/problem/23843
+1765,Gold II,닭싸움 팀 정하기,2145,1015,761,46.831%,https://www.acmicpc.net/problem/1765
+22866,Gold III,탑 보기,3246,1040,760,29.933%,https://www.acmicpc.net/problem/22866
+13505,Platinum III,두 수 XOR,2038,1049,750,55.228%,https://www.acmicpc.net/problem/13505
+5464,Silver II,주차장,1547,888,744,59.425%,https://www.acmicpc.net/problem/5464
+14727,Platinum V,퍼즐 자르기,2078,833,743,51.958%,https://www.acmicpc.net/problem/14727
+1777,Platinum V,순열복원,1589,923,737,67.183%,https://www.acmicpc.net/problem/1777
+14287,Platinum III,회사 문화 3,1921,931,733,49.096%,https://www.acmicpc.net/problem/14287
+9489,Gold IV,사촌,3368,994,731,29.112%,https://www.acmicpc.net/problem/9489
+2358,Silver IV,평행선,2894,886,726,33.846%,https://www.acmicpc.net/problem/2358
+2934,Platinum IV,LRH 식물,1776,939,720,57.052%,https://www.acmicpc.net/problem/2934
+7432,Gold III,디스크 트리,1655,927,705,57.224%,https://www.acmicpc.net/problem/7432
+25325,Silver V,학생 인기도 측정,1202,768,686,67.854%,https://www.acmicpc.net/problem/25325
+14595,Gold III,동방 프로젝트 (Large),2499,949,670,37.243%,https://www.acmicpc.net/problem/14595
+1615,Gold I,교차개수세기,6304,2338,667,20.200%,https://www.acmicpc.net/problem/1615
+9463,Platinum V,순열 그래프,2313,925,666,43.989%,https://www.acmicpc.net/problem/9463
+17131,Platinum IV,여우가 정보섬에 올라온 이유,2134,886,665,39.964%,https://www.acmicpc.net/problem/17131
+24391,Gold V,귀찮은 해강이,1616,764,661,49.662%,https://www.acmicpc.net/problem/24391
+3077,Silver III,임진왜란,1613,786,659,54.825%,https://www.acmicpc.net/problem/3077
+22942,Gold IV,데이터 체커,2819,915,658,32.302%,https://www.acmicpc.net/problem/22942
+14464,Gold I,소가 길을 건너간 이유 4,3021,874,657,29.187%,https://www.acmicpc.net/problem/14464
+18227,Platinum III,성대나라의 물탱크,2009,798,643,41.008%,https://www.acmicpc.net/problem/18227
+2465,Platinum III,줄 세우기,1506,875,631,62.045%,https://www.acmicpc.net/problem/2465
+14865,Platinum V,곡선 자르기,4688,969,628,23.680%,https://www.acmicpc.net/problem/14865
+16934,Gold III,게임 닉네임,1586,868,621,53.259%,https://www.acmicpc.net/problem/16934
+12906,Gold III,새로운 하노이 탑,1568,834,611,54.505%,https://www.acmicpc.net/problem/12906
+1464,Gold IV,뒤집기 3,1986,754,609,41.684%,https://www.acmicpc.net/problem/1464
+9575,Silver IV,행운의 수,1294,749,604,61.885%,https://www.acmicpc.net/problem/9575
+2220,Platinum IV,힙 정렬,1611,778,604,57.089%,https://www.acmicpc.net/problem/2220
+17255,Gold IV,N으로 만들기,1532,774,596,50.551%,https://www.acmicpc.net/problem/17255
+24523,Silver II,내 뒤에 나와 다른 수,1822,728,593,42.909%,https://www.acmicpc.net/problem/24523
+1379,Gold III,강의실 2,2010,791,585,38.086%,https://www.acmicpc.net/problem/1379
+16168,Gold IV,퍼레이드,2166,724,576,32.197%,https://www.acmicpc.net/problem/16168
+27497,Silver II,알파벳 블록,2066,695,573,34.812%,https://www.acmicpc.net/problem/27497
+28445,Silver V,알록달록 앵무새,849,641,570,79.720%,https://www.acmicpc.net/problem/28445
+2374,Gold IV,같은 수로 만들기,2282,814,570,37.085%,https://www.acmicpc.net/problem/2374
+15559,Gold II,내 선물을 받아줘,1759,753,566,41.224%,https://www.acmicpc.net/problem/15559
+22252,Gold V,정보 상인 호석,1761,794,565,40.912%,https://www.acmicpc.net/problem/22252
+16957,Gold III,체스판 위의 공,2058,776,563,37.235%,https://www.acmicpc.net/problem/16957
+15967,Platinum IV,에바쿰,2288,650,562,34.081%,https://www.acmicpc.net/problem/15967
+10000,Platinum IV,원 영역,2377,819,560,36.340%,https://www.acmicpc.net/problem/10000
+16903,Platinum III,수열과 쿼리 20,2079,745,552,31.944%,https://www.acmicpc.net/problem/16903
+2121,Silver III,넷이 놀기,1800,779,550,43.513%,https://www.acmicpc.net/problem/2121
+28066,Silver II,타노스는 요세푸스가 밉다,1071,631,540,64.057%,https://www.acmicpc.net/problem/28066
+21944,Gold II,문제 추천 시스템 Version 2,2673,763,520,27.689%,https://www.acmicpc.net/problem/21944
+15809,Gold IV,전국시대,2187,686,517,29.954%,https://www.acmicpc.net/problem/15809
+12893,Gold IV,적의 적,1860,698,511,37.191%,https://www.acmicpc.net/problem/12893
+1994,Gold I,등차수열,2806,758,511,26.866%,https://www.acmicpc.net/problem/1994
+23326,Gold III,홍익 투어리스트,2334,610,507,29.273%,https://www.acmicpc.net/problem/23326
+14288,Platinum III,회사 문화 4,894,558,495,66.000%,https://www.acmicpc.net/problem/14288
+25918,Silver I,북극곰은 괄호를 찢어,1718,666,494,41.478%,https://www.acmicpc.net/problem/25918
+25402,Platinum V,트리와 쿼리,2939,740,494,24.626%,https://www.acmicpc.net/problem/25402
+9015,Gold I,정사각형,3695,863,491,19.195%,https://www.acmicpc.net/problem/9015
+31562,Bronze I,전주 듣고 노래 맞히기,848,581,490,71.533%,https://www.acmicpc.net/problem/31562
+13168,Gold III,내일로 여행,2511,646,489,26.972%,https://www.acmicpc.net/problem/13168
+2233,Gold II,사과나무,1899,655,488,33.748%,https://www.acmicpc.net/problem/2233
+5107,Silver I,마니또,1147,611,478,54.504%,https://www.acmicpc.net/problem/5107
+11873,Platinum III,최대 직사각형,1549,664,476,47.984%,https://www.acmicpc.net/problem/11873
+29197,Silver I,아침 태권도,1799,555,474,34.751%,https://www.acmicpc.net/problem/29197
+17178,Gold V,줄서기,1135,564,473,49.529%,https://www.acmicpc.net/problem/17178
+20923,Silver I,숫자 할리갈리 게임,2719,690,469,24.364%,https://www.acmicpc.net/problem/20923
+26042,Silver V,식당 입구 대기 줄,1684,545,466,32.429%,https://www.acmicpc.net/problem/26042
+1989,Platinum V,부분배열 고르기 2,1521,532,465,37.530%,https://www.acmicpc.net/problem/1989
+23057,Silver II,도전 숫자왕,1176,557,463,49.892%,https://www.acmicpc.net/problem/23057
+19644,Gold III,좀비 떼가 기관총 진지에도 오다니,2918,675,463,22.774%,https://www.acmicpc.net/problem/19644
+28707,Gold I,배열 정렬,1169,567,457,48.309%,https://www.acmicpc.net/problem/28707
+29701,Bronze II,모스 부호,803,504,456,63.776%,https://www.acmicpc.net/problem/29701
+23309,Gold IV,철도 공사,3502,701,453,22.001%,https://www.acmicpc.net/problem/23309
+1394,Gold V,암호,2719,613,448,25.070%,https://www.acmicpc.net/problem/1394
+14670,Silver IV,병약한 영정,1717,522,447,32.843%,https://www.acmicpc.net/problem/14670
+18437,Platinum III,회사 문화 5,1413,571,444,39.327%,https://www.acmicpc.net/problem/18437
+17469,Platinum III,트리의 색깔과 쿼리,1459,614,441,40.608%,https://www.acmicpc.net/problem/17469
+5012,Platinum IV,불만 정렬,1211,549,440,46.610%,https://www.acmicpc.net/problem/5012
+17479,Silver III,정식당,2197,550,436,25.144%,https://www.acmicpc.net/problem/17479
+15972,Platinum III,물탱크,2217,676,435,36.190%,https://www.acmicpc.net/problem/15972
+5446,Platinum III,용량 부족,1671,629,430,36.410%,https://www.acmicpc.net/problem/5446
+5021,Gold IV,왕위 계승,1599,553,427,37.621%,https://www.acmicpc.net/problem/5021
+19640,Gold IV,화장실의 규칙,1452,524,424,36.678%,https://www.acmicpc.net/problem/19640
+15659,Gold IV,연산자 끼워넣기 (3),975,532,415,57.084%,https://www.acmicpc.net/problem/15659
+1184,Gold I,귀농,1196,557,407,47.602%,https://www.acmicpc.net/problem/1184
+15789,Gold IV,CTP 왕국은 한솔 왕국을 이길 수 있을까?,1192,497,402,42.721%,https://www.acmicpc.net/problem/15789
+28446,Silver IV,볼링공 찾아주기,840,474,401,58.626%,https://www.acmicpc.net/problem/28446
+21942,Gold II,부품 대여장,2105,568,399,24.389%,https://www.acmicpc.net/problem/21942
+22860,Gold III,폴더 정리 (small),1361,551,397,38.357%,https://www.acmicpc.net/problem/22860
+3954,Gold I,Brainf**k 인터프리터,7997,625,392,11.897%,https://www.acmicpc.net/problem/3954
+23254,Gold V,나는 기말고사형 인간이야,1006,485,389,49.744%,https://www.acmicpc.net/problem/23254
+17490,Gold III,일감호에 다리 놓기,2637,539,388,20.605%,https://www.acmicpc.net/problem/17490
+17409,Platinum IV,증가 수열의 개수,1068,490,387,47.955%,https://www.acmicpc.net/problem/17409
+19591,Gold III,독특한 계산기,2048,533,386,26.438%,https://www.acmicpc.net/problem/19591
+21773,Gold V,가희와 프로세스 1,1138,468,382,41.567%,https://www.acmicpc.net/problem/21773
+24524,Gold V,아름다운 문자열,1168,474,379,43.364%,https://www.acmicpc.net/problem/24524
+1539,Platinum V,이진 검색 트리,2053,503,374,34.662%,https://www.acmicpc.net/problem/1539
+29160,Silver II,나의 FIFA 팀 가치는?,1483,450,373,33.097%,https://www.acmicpc.net/problem/29160
+11531,Bronze II,ACM 대회 채점,541,424,373,78.197%,https://www.acmicpc.net/problem/11531
+12016,Platinum III,라운드 로빈 스케줄러,1196,500,370,48.877%,https://www.acmicpc.net/problem/12016
+1294,Platinum III,문자열 장식,2232,627,365,23.338%,https://www.acmicpc.net/problem/1294
+13504,Platinum III,XOR 합,1246,508,361,43.705%,https://www.acmicpc.net/problem/13504
+14911,Silver IV,궁합 쌍 찾기,1452,429,359,30.842%,https://www.acmicpc.net/problem/14911
+29813,Silver III,최애의 팀원,575,399,350,74.153%,https://www.acmicpc.net/problem/29813
+13303,Platinum III,장애물 경기,1371,438,343,36.181%,https://www.acmicpc.net/problem/13303
+3018,Silver III,캠프파이어,974,393,343,44.603%,https://www.acmicpc.net/problem/3018
+4921,Silver IV,나무 블록,1111,427,342,40.047%,https://www.acmicpc.net/problem/4921
+23059,Gold II,리그 오브 레게노,1385,493,339,34.451%,https://www.acmicpc.net/problem/23059
+12963,Platinum III,달리기,787,422,339,53.218%,https://www.acmicpc.net/problem/12963
+29723,Silver V,브실이의 입시전략,719,392,337,55.065%,https://www.acmicpc.net/problem/29723
+5588,Gold V,별자리 찾기,628,418,337,71.702%,https://www.acmicpc.net/problem/5588
+17250,Gold IV,은하철도,786,427,336,55.537%,https://www.acmicpc.net/problem/17250
+5875,Gold II,오타,1352,426,334,36.703%,https://www.acmicpc.net/problem/5875
+20157,Gold V,화살을 쏘자!,1176,417,333,33.200%,https://www.acmicpc.net/problem/20157
+1108,Platinum III,검색 엔진,2072,436,330,20.599%,https://www.acmicpc.net/problem/1108
+12895,Platinum III,화려한 마을,1439,412,328,27.311%,https://www.acmicpc.net/problem/12895
+3025,Platinum IV,돌 던지기,4754,554,326,17.322%,https://www.acmicpc.net/problem/3025
+2983,Platinum IV,개구리 공주,2249,494,323,29.390%,https://www.acmicpc.net/problem/2983
+22254,Gold III,공정 컨설턴트 호석,1188,431,320,34.409%,https://www.acmicpc.net/problem/22254
+3080,Platinum III,아름다운 이름,2794,545,320,17.410%,https://www.acmicpc.net/problem/3080
+15708,Platinum V,미네크래프트,1454,426,315,28.793%,https://www.acmicpc.net/problem/15708
+2716,Silver II,원숭이 매달기,1096,386,314,42.091%,https://www.acmicpc.net/problem/2716
+24542,Silver I,튜터-튜티 관계의 수,853,360,308,42.778%,https://www.acmicpc.net/problem/24542
+22343,Gold II,괄호의 값 비교,2135,544,306,24.171%,https://www.acmicpc.net/problem/22343
+15500,Silver II,이상한 하노이 탑,846,409,306,49.435%,https://www.acmicpc.net/problem/15500
+14622,Gold IV,소수 게임,2280,418,304,18.009%,https://www.acmicpc.net/problem/14622
+13415,Gold I,정렬 게임,2516,401,304,27.248%,https://www.acmicpc.net/problem/13415
+20530,Gold I,양분,1440,402,303,29.219%,https://www.acmicpc.net/problem/20530
+27440,Gold IV,1로 만들기 3,1430,362,298,33.001%,https://www.acmicpc.net/problem/27440
+20311,Gold V,화학 실험,1166,360,298,34.096%,https://www.acmicpc.net/problem/20311
+1060,Gold I,좋은 수,1762,345,298,23.502%,https://www.acmicpc.net/problem/1060
+19566,Gold II,수열의 구간 평균,807,403,297,48.768%,https://www.acmicpc.net/problem/19566
+25593,Bronze I,근무 지옥에 빠진 푸앙이 (Small),778,350,296,47.500%,https://www.acmicpc.net/problem/25593
+3988,Platinum IV,수 고르기,1024,400,296,42.775%,https://www.acmicpc.net/problem/3988
+2287,Gold I,모노디지털 표현,1440,513,296,33.446%,https://www.acmicpc.net/problem/2287
+25187,Gold IV,고인물이 싫어요,893,349,293,42.774%,https://www.acmicpc.net/problem/25187
+25332,Gold III,수들의 합 8,766,358,288,48.980%,https://www.acmicpc.net/problem/25332
+1432,Platinum IV,그래프 수정,1410,361,288,27.042%,https://www.acmicpc.net/problem/1432
+22234,Gold V,가희와 은행,1104,366,286,32.135%,https://www.acmicpc.net/problem/22234
+30892,Silver I,상어 키우기,1237,366,285,32.534%,https://www.acmicpc.net/problem/30892
+30024,Gold IV,옥수수밭,830,343,285,42.665%,https://www.acmicpc.net/problem/30024
+14463,Platinum IV,소가 길을 건너간 이유 9,635,344,285,57.576%,https://www.acmicpc.net/problem/14463
+12757,Gold III,전설의 JBNU,1446,415,285,29.141%,https://www.acmicpc.net/problem/12757
+15595,Silver III,정답 비율 계산하기,1077,387,282,42.342%,https://www.acmicpc.net/problem/15595
+16402,Gold II,제국,1216,418,279,31.313%,https://www.acmicpc.net/problem/16402
+28107,Silver I,회전초밥,929,353,276,40.116%,https://www.acmicpc.net/problem/28107
+2094,Platinum III,강수량,2698,469,276,17.957%,https://www.acmicpc.net/problem/2094
+22232,Silver III,가희와 파일 탐색기,1118,375,274,33.293%,https://www.acmicpc.net/problem/22232
+13146,Gold I,같은 수로 만들기 2,851,378,273,45.274%,https://www.acmicpc.net/problem/13146
+31423,Gold V,신촌 통폐합 계획,1600,365,271,24.261%,https://www.acmicpc.net/problem/31423
+23324,Gold IV,어려운 모든 정점 쌍 최단 거리,743,339,271,47.965%,https://www.acmicpc.net/problem/23324
+5000,Platinum III,빵 정렬,821,380,270,58.065%,https://www.acmicpc.net/problem/5000
+1960,Gold II,행렬만들기,1266,359,268,30.180%,https://www.acmicpc.net/problem/1960
+17481,Platinum IV,최애 정하기,520,319,266,62.441%,https://www.acmicpc.net/problem/17481
+16909,Platinum III,카드 구매하기 3,880,368,266,46.749%,https://www.acmicpc.net/problem/16909
+13915,Silver III,현수의 열기구 교실,629,321,266,53.307%,https://www.acmicpc.net/problem/13915
+23300,Gold V,웹 브라우저 2,904,317,262,35.262%,https://www.acmicpc.net/problem/23300
+3770,Platinum V,대한민국,800,316,258,39.210%,https://www.acmicpc.net/problem/3770
+2065,Gold II,나룻배,1576,335,258,22.651%,https://www.acmicpc.net/problem/2065
+27896,Gold V,특별한 서빙,850,291,256,37.926%,https://www.acmicpc.net/problem/27896
+25584,Silver V,근무 지옥에 빠진 푸앙이 (Large),513,304,256,61.538%,https://www.acmicpc.net/problem/25584
+16166,Gold IV,서울의 지하철,964,322,256,36.158%,https://www.acmicpc.net/problem/16166
+31908,Silver V,커플링 매치,498,278,254,59.346%,https://www.acmicpc.net/problem/31908
+26267,Silver III,은?행 털!자 1,570,277,252,50.400%,https://www.acmicpc.net/problem/26267
+2843,Platinum III,마블,1234,356,251,30.535%,https://www.acmicpc.net/problem/2843
+17400,Platinum V,깃발춤,570,286,248,50.509%,https://www.acmicpc.net/problem/17400
+25601,Silver I,자바의 형변환,642,337,247,51.033%,https://www.acmicpc.net/problem/25601
+25393,Gold V,교집합 만들기,964,350,247,43.640%,https://www.acmicpc.net/problem/25393
+26596,Silver IV,황금 칵테일,673,278,243,44.424%,https://www.acmicpc.net/problem/26596
+19700,Gold I,수업,877,308,241,34.978%,https://www.acmicpc.net/problem/19700
+23294,Gold IV,웹 브라우저 1,1177,313,239,28.691%,https://www.acmicpc.net/problem/23294
+20531,Platinum V,인간관계,770,297,238,37.014%,https://www.acmicpc.net/problem/20531
+32172,Silver V,현권이와 신기한 수열,478,322,237,68.103%,https://www.acmicpc.net/problem/32172
+17407,Platinum III,괄호 문자열과 쿼리,667,287,236,42.068%,https://www.acmicpc.net/problem/17407
+31860,Silver II,열심히 일하는 중,583,297,232,59.184%,https://www.acmicpc.net/problem/31860
+2171,Gold V,직사각형의 개수,761,340,232,43.774%,https://www.acmicpc.net/problem/2171
+16209,Gold III,수열 섞기,1029,272,229,30.211%,https://www.acmicpc.net/problem/16209
+5896,Platinum III,효율적으로 소 사기,1420,321,229,25.082%,https://www.acmicpc.net/problem/5896
+3430,Gold I,용이 산다,1418,354,229,28.202%,https://www.acmicpc.net/problem/3430
+20943,Gold IV,카카오톡,1438,329,228,26.887%,https://www.acmicpc.net/problem/20943
+13555,Platinum IV,증가하는 부분 수열,902,327,228,41.606%,https://www.acmicpc.net/problem/13555
+3895,Platinum V,그리고 하나가 남았다,599,273,228,56.858%,https://www.acmicpc.net/problem/3895
+28305,Gold I,세미나 배정,659,275,226,42.322%,https://www.acmicpc.net/problem/28305
+17365,Platinum III,별다줄,980,293,224,36.129%,https://www.acmicpc.net/problem/17365
+15823,Gold II,카드 팩 구매하기,1087,296,223,27.063%,https://www.acmicpc.net/problem/15823
+28078,Gold V,중력 큐,1036,286,222,28.982%,https://www.acmicpc.net/problem/28078
+29754,Silver I,"세상에는 많은 유튜버가 있고, 그중에서 버츄얼 유튜버도 존재한다",1025,257,217,32.148%,https://www.acmicpc.net/problem/29754
+29721,Silver IV,변형 체스 놀이 : 다바바(Dabbaba),501,281,217,55.357%,https://www.acmicpc.net/problem/29721
+23040,Gold III,누텔라 트리 (Easy),889,252,217,31.449%,https://www.acmicpc.net/problem/23040
+27945,Gold III,슬슬 가지를 먹지 않으면 죽는다,540,283,216,50.824%,https://www.acmicpc.net/problem/27945
+31001,Silver I,주식 시뮬레이션,1335,261,215,22.074%,https://www.acmicpc.net/problem/31001
+1810,Gold II,징검다리 달리기 2,1851,411,211,19.429%,https://www.acmicpc.net/problem/1810
+25406,Platinum IV,식사 계획 세우기,862,261,210,35.775%,https://www.acmicpc.net/problem/25406
+23883,Gold IV,알고리즘 수업 - 선택 정렬 3,1232,277,206,28.297%,https://www.acmicpc.net/problem/23883
+25957,Silver II,단어 우월 효과 (캠브릿지 대학의 연구결과),1112,261,205,27.261%,https://www.acmicpc.net/problem/25957
+1897,Gold V,토달기,987,278,205,28.671%,https://www.acmicpc.net/problem/1897
+17132,Platinum V,두더지가 정보섬에 올라온 이유,484,247,204,52.442%,https://www.acmicpc.net/problem/17132
+25758,Silver I,유전자 조합,1045,241,203,29.293%,https://www.acmicpc.net/problem/25758
+19580,Platinum V,마스크가 필요해,1371,273,203,22.308%,https://www.acmicpc.net/problem/19580
+3172,Platinum IV,현주와 윤주의 재미있는 단어 게임,824,258,202,41.478%,https://www.acmicpc.net/problem/3172
+4848,Silver II,집합 숫자 표기법,394,279,201,70.775%,https://www.acmicpc.net/problem/4848
+20052,Platinum IV,괄호 문자열 ?,569,240,200,46.083%,https://www.acmicpc.net/problem/20052
+2276,Platinum IV,물 채우기,494,264,200,55.866%,https://www.acmicpc.net/problem/2276
+15648,Platinum IV,추출하는 폴도 바리스타입니다,603,282,198,48.411%,https://www.acmicpc.net/problem/15648
+14577,Platinum III,일기예보,1124,311,196,22.529%,https://www.acmicpc.net/problem/14577
+31869,Silver III,선배님 밥 사주세요!,806,227,195,33.505%,https://www.acmicpc.net/problem/31869
+26043,Silver IV,식당 메뉴,848,260,195,29.590%,https://www.acmicpc.net/problem/26043
+25328,Silver III,문자열 집합 조합하기,555,248,186,43.972%,https://www.acmicpc.net/problem/25328
+5817,Platinum IV,고통받는 난쟁이들,560,219,185,43.224%,https://www.acmicpc.net/problem/5817
+30408,Gold V,춘배가 선물하는 특별한 하트,630,222,183,38.365%,https://www.acmicpc.net/problem/30408
+28277,Gold I,뭉쳐야 산다,484,266,183,59.032%,https://www.acmicpc.net/problem/28277
+9464,Gold III,직사각형 집합,845,268,183,32.389%,https://www.acmicpc.net/problem/9464
+22899,Gold II,오렌지컵 출제하기,844,220,182,31.597%,https://www.acmicpc.net/problem/22899
+24393,Silver III,조커 찾기,481,218,181,50.418%,https://www.acmicpc.net/problem/24393
+18407,Platinum III,가로 블록 쌓기,619,244,181,38.186%,https://www.acmicpc.net/problem/18407
+1797,Gold II,균형잡힌 줄서기,620,221,181,41.514%,https://www.acmicpc.net/problem/1797
+1999,Gold III,최대최소,571,229,179,45.780%,https://www.acmicpc.net/problem/1999
+21279,Platinum V,광부 호석,986,352,177,24.082%,https://www.acmicpc.net/problem/21279
+11666,Gold III,워크스테이션 배정,541,218,177,41.844%,https://www.acmicpc.net/problem/11666
+32034,Platinum V,동전 쌍 뒤집기,641,230,176,44.444%,https://www.acmicpc.net/problem/32034
+2371,Silver III,파일 구별하기,540,212,172,44.675%,https://www.acmicpc.net/problem/2371
+28296,Platinum III,물류창고,514,217,171,53.943%,https://www.acmicpc.net/problem/28296
+25329,Silver IV,학생별 통화 요금 계산,387,197,171,58.163%,https://www.acmicpc.net/problem/25329
+9318,Platinum IV,위성 사진,726,266,171,37.418%,https://www.acmicpc.net/problem/9318
+3089,Gold III,네잎 클로버를 찾아서,432,209,170,54.839%,https://www.acmicpc.net/problem/3089
+23350,Silver I,K 물류창고,382,199,169,55.960%,https://www.acmicpc.net/problem/23350
+3366,Gold I,수열 줄이기,660,226,169,34.350%,https://www.acmicpc.net/problem/3366
+23884,Gold IV,알고리즘 수업 - 선택 정렬 4,424,205,168,60.215%,https://www.acmicpc.net/problem/23884
+20666,Gold III,인물이와 정수,762,213,166,28.041%,https://www.acmicpc.net/problem/20666
+25603,Gold V,짱해커 이동식,476,199,165,48.246%,https://www.acmicpc.net/problem/25603
+29728,Silver II,실버와 소수는 둘다 S로 시작한다,560,195,164,34.454%,https://www.acmicpc.net/problem/29728
+22876,Platinum IV,츠바메가에시,516,215,164,39.806%,https://www.acmicpc.net/problem/22876
+4442,Platinum V,빌보의 생일,461,197,164,54.485%,https://www.acmicpc.net/problem/4442
+32143,Gold III,카드 게임 (Hard),622,187,163,34.534%,https://www.acmicpc.net/problem/32143
+31003,Gold I,언젠가 정렬이 될 수 있으면 좋겠네.,547,189,162,42.971%,https://www.acmicpc.net/problem/31003
+30108,Gold IV,교육적인 트리 문제,348,220,162,62.308%,https://www.acmicpc.net/problem/30108
+27892,Gold V,특별한 큰 분수,513,187,162,44.751%,https://www.acmicpc.net/problem/27892
+23293,Silver I,아주 서바이벌,860,196,161,24.394%,https://www.acmicpc.net/problem/23293
+23349,Silver I,졸업 사진,499,202,160,44.077%,https://www.acmicpc.net/problem/23349
+14459,Platinum IV,소가 길을 건너간 이유 11,326,196,160,63.745%,https://www.acmicpc.net/problem/14459
+22954,Gold I,그래프 트리 분할,1001,207,158,19.750%,https://www.acmicpc.net/problem/22954
+1273,Platinum III,샷,844,223,158,28.991%,https://www.acmicpc.net/problem/1273
+30646,Gold V,최대 합 순서쌍의 개수,300,184,156,67.532%,https://www.acmicpc.net/problem/30646
+14402,Silver IV,야근,423,190,156,51.485%,https://www.acmicpc.net/problem/14402
+30105,Gold V,아즈버의 이빨 자국,630,239,155,36.385%,https://www.acmicpc.net/problem/30105
+28118,Gold IV,안전한 건설 계획,264,178,153,68.919%,https://www.acmicpc.net/problem/28118
+14458,Platinum III,소가 길을 건너간 이유 10,521,177,152,34.004%,https://www.acmicpc.net/problem/14458
+3865,Gold IV,학회원,598,204,152,34.703%,https://www.acmicpc.net/problem/3865
+23284,Gold V,모든 스택 수열,502,218,151,55.720%,https://www.acmicpc.net/problem/23284
+15816,Platinum IV,퀘스트 중인 모험가,1002,259,151,21.852%,https://www.acmicpc.net/problem/15816
+4881,Silver III,자리수의 제곱,558,201,151,35.280%,https://www.acmicpc.net/problem/4881
+30014,Gold II,준영이의 사랑,419,178,150,44.379%,https://www.acmicpc.net/problem/30014
+24431,Silver IV,유사 라임 게임,300,208,149,73.762%,https://www.acmicpc.net/problem/24431
+20295,Platinum III,사탕 배달,608,196,149,31.501%,https://www.acmicpc.net/problem/20295
+32072,Platinum IV,트리 뽑아내기,313,193,148,66.667%,https://www.acmicpc.net/problem/32072
+25587,Gold III,배수로,416,169,148,45.122%,https://www.acmicpc.net/problem/25587
+11101,Silver III,꿍의 여친 만들기,207,170,148,81.319%,https://www.acmicpc.net/problem/11101
+25956,Silver I,목차 세기,622,175,147,34.588%,https://www.acmicpc.net/problem/25956
+20209,Gold III,스트레이트 스위치 게임,605,241,147,32.886%,https://www.acmicpc.net/problem/20209
+20541,Platinum V,앨범정리,950,215,145,22.446%,https://www.acmicpc.net/problem/20541
+32205,Silver IV,네모의 꿈,279,191,143,71.500%,https://www.acmicpc.net/problem/32205
+14411,Gold IV,합집합,377,190,143,58.130%,https://www.acmicpc.net/problem/14411
+29618,Gold III,미술 시간,563,170,137,35.128%,https://www.acmicpc.net/problem/29618
+15502,Gold II,K-균등 문자열,383,169,137,45.973%,https://www.acmicpc.net/problem/15502
+31824,Silver III,근로장학생,375,162,136,56.904%,https://www.acmicpc.net/problem/31824
+28251,Gold III,나도리합,300,151,136,51.515%,https://www.acmicpc.net/problem/28251
+30047,Silver I,함수 문자열,470,162,135,39.589%,https://www.acmicpc.net/problem/30047
+26086,Gold III,어려운 스케줄링,780,173,135,24.368%,https://www.acmicpc.net/problem/26086
+20930,Platinum V,우주 정거장,440,167,135,38.905%,https://www.acmicpc.net/problem/20930
+17942,Gold I,알고리즘 공부,467,189,135,38.136%,https://www.acmicpc.net/problem/17942
+26601,Platinum V,가장 작은 수,439,201,134,40.854%,https://www.acmicpc.net/problem/26601
+20136,Platinum IV,멀티탭 스케줄링 2,603,185,134,29.712%,https://www.acmicpc.net/problem/20136
+17162,Gold IV,가희의 수열놀이 (Small),622,170,133,28.000%,https://www.acmicpc.net/problem/17162
+6566,Silver I,애너그램 그룹,1042,224,133,17.051%,https://www.acmicpc.net/problem/6566
+25172,Platinum IV,꼼꼼한 쿠기의 졸업여행,242,155,132,65.672%,https://www.acmicpc.net/problem/25172
+22867,Gold V,종점,358,203,131,52.400%,https://www.acmicpc.net/problem/22867
+3045,Platinum III,이중 연결 리스트,1057,173,130,29.545%,https://www.acmicpc.net/problem/3045
+1905,Gold III,상자 쌓기,897,199,130,21.667%,https://www.acmicpc.net/problem/1905
+25327,Silver III,다중 항목 선호도 조사 (Large),427,173,129,40.625%,https://www.acmicpc.net/problem/25327
+21775,Gold IV,가희와 자원 놀이,397,184,128,44.138%,https://www.acmicpc.net/problem/21775
+17306,Platinum III,전쟁 중의 삶,691,197,128,24.951%,https://www.acmicpc.net/problem/17306
+25549,Platinum III,트리의 MEX,366,165,127,44.876%,https://www.acmicpc.net/problem/25549
+25200,Platinum V,곰곰이와 자판기,415,170,127,40.705%,https://www.acmicpc.net/problem/25200
+22959,Platinum IV,신촌 수열과 쿼리,530,181,127,31.592%,https://www.acmicpc.net/problem/22959
+17430,Gold V,가로등,476,194,127,42.905%,https://www.acmicpc.net/problem/17430
+28132,Gold I,기벡을 안배운다고?,607,205,126,27.511%,https://www.acmicpc.net/problem/28132
+1889,Gold IV,선물 교환,739,187,126,25.251%,https://www.acmicpc.net/problem/1889
+30470,Gold V,호반우가 학교에 지각한 이유 3,598,149,125,28.281%,https://www.acmicpc.net/problem/30470
+6051,Gold II,시간 여행,810,164,125,37.313%,https://www.acmicpc.net/problem/6051
+3691,Gold III,컴퓨터 조립,526,170,125,32.300%,https://www.acmicpc.net/problem/3691
+3136,Platinum IV,평면도,489,176,124,37.690%,https://www.acmicpc.net/problem/3136
+22863,Gold II,원상 복구 (large),705,208,121,25.636%,https://www.acmicpc.net/problem/22863
+12867,Silver II,N차원 여행,366,142,120,43.321%,https://www.acmicpc.net/problem/12867
+3008,Platinum V,직각 삼각형의 개수,728,195,120,29.412%,https://www.acmicpc.net/problem/3008
+23090,Gold I,난민,492,168,119,34.097%,https://www.acmicpc.net/problem/23090
+23900,Gold III,알고리즘 수업 - 선택 정렬 6,612,161,118,44.030%,https://www.acmicpc.net/problem/23900
+28099,Gold III,이상한 배열,636,166,117,29.771%,https://www.acmicpc.net/problem/28099
+26087,Platinum V,피보나치와 마지막 수열과 쿼리,595,184,117,29.545%,https://www.acmicpc.net/problem/26087
+16221,Platinum IV,모독,347,135,117,50.000%,https://www.acmicpc.net/problem/16221
+15703,Gold IV,주사위 쌓기,383,145,117,43.173%,https://www.acmicpc.net/problem/15703
+9623,Platinum IV,부분 수열의 길이,979,165,117,25.602%,https://www.acmicpc.net/problem/9623
+18859,Platinum IV,부모님께 큰절 하고,806,135,116,19.496%,https://www.acmicpc.net/problem/18859
+31222,Platinum V,수열과 어렵지 않은 쿼리,177,124,115,72.785%,https://www.acmicpc.net/problem/31222
+20131,Platinum V,트리 만들기,175,138,115,80.420%,https://www.acmicpc.net/problem/20131
+16906,Platinum V,욱제어,436,144,115,34.125%,https://www.acmicpc.net/problem/16906
+10888,Gold II,두 섬간의 이동,358,131,115,40.925%,https://www.acmicpc.net/problem/10888
+29714,Silver II,브실이의 구슬 아이스크림,256,124,114,49.138%,https://www.acmicpc.net/problem/29714
+23578,Platinum V,비 오는 날,500,144,114,28.429%,https://www.acmicpc.net/problem/23578
+12731,Gold V,열차 시간표(Small),320,131,114,45.783%,https://www.acmicpc.net/problem/12731
+13502,Gold II,단어퍼즐 2,661,176,113,25.223%,https://www.acmicpc.net/problem/13502
+32031,Gold II,석고 모형 만들기,182,134,111,78.169%,https://www.acmicpc.net/problem/32031
+25428,Platinum V,분필 도둑,300,140,110,58.201%,https://www.acmicpc.net/problem/25428
+20156,Platinum IV,기왕 이렇게 된 거 암기왕이 되어라,546,129,110,22.965%,https://www.acmicpc.net/problem/20156
+22861,Gold I,폴더 정리 (large),629,200,109,25.057%,https://www.acmicpc.net/problem/22861
+23760,Platinum V,까다로운 아이들과 선물 상자,338,140,108,40.602%,https://www.acmicpc.net/problem/23760
+32125,Platinum V,일꾼 고용,268,128,107,48.416%,https://www.acmicpc.net/problem/32125
+27232,Gold I,청소,458,123,107,56.021%,https://www.acmicpc.net/problem/27232
+17076,Platinum III,망가진 데이터,266,120,107,52.970%,https://www.acmicpc.net/problem/17076
+3429,Platinum IV,방어선,609,153,107,29.558%,https://www.acmicpc.net/problem/3429
+28137,Gold IV,뭐라고? 안들려,278,145,106,50.962%,https://www.acmicpc.net/problem/28137
+11917,Gold III,이상한 수열,452,126,106,28.042%,https://www.acmicpc.net/problem/11917
+20956,Gold IV,아이스크림 도둑 지호,300,131,105,49.528%,https://www.acmicpc.net/problem/20956
+32028,Gold I,이진 검색 트리 복원하기,289,114,104,47.273%,https://www.acmicpc.net/problem/32028
+15804,Gold II,저거 못 타면 지각이야!!,356,126,104,36.620%,https://www.acmicpc.net/problem/15804
+5461,Platinum IV,고용,595,129,104,20.594%,https://www.acmicpc.net/problem/5461
+25240,Gold III,가희와 파일 탐색기 2,722,180,103,23.843%,https://www.acmicpc.net/problem/25240
+15646,Platinum IV,농부 후안은 바리스타입니다,538,128,102,33.117%,https://www.acmicpc.net/problem/15646
+2835,Gold III,인기도 조사,502,126,102,27.179%,https://www.acmicpc.net/problem/2835
+2350,Gold II,대운하,276,141,102,55.135%,https://www.acmicpc.net/problem/2350
+31719,Gold IV,UDP 스택,452,119,101,28.693%,https://www.acmicpc.net/problem/31719
+6523,Gold II,요세푸스 한 번 더!,378,164,101,41.057%,https://www.acmicpc.net/problem/6523
+32201,Silver III,눈사람,156,112,99,72.263%,https://www.acmicpc.net/problem/32201
+17082,Platinum V,쿼리와 쿼리,479,120,98,26.273%,https://www.acmicpc.net/problem/17082
+4373,Gold I,수집합,672,137,98,20.123%,https://www.acmicpc.net/problem/4373
+14632,Platinum IV,고급 작품,531,194,97,35.145%,https://www.acmicpc.net/problem/14632
+12741,Platinum IV,쓰담쓰담,406,116,97,38.039%,https://www.acmicpc.net/problem/12741
+21396,Silver II,이진수 더하기,441,124,96,32.000%,https://www.acmicpc.net/problem/21396
+20292,Gold III,컨설팅,328,120,96,38.400%,https://www.acmicpc.net/problem/20292
+31858,Gold III,간단한 순열 문제,200,110,95,62.500%,https://www.acmicpc.net/problem/31858
+25502,Gold IV,등차수열? 등비수열?,680,140,95,26.158%,https://www.acmicpc.net/problem/25502
+15491,Platinum III,도시 정비,427,148,95,33.569%,https://www.acmicpc.net/problem/15491
+12732,Gold V,열차 시간표(Large),235,103,95,53.977%,https://www.acmicpc.net/problem/12732
+22956,Gold I,소나기,289,119,94,39.662%,https://www.acmicpc.net/problem/22956
